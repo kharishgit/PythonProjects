@@ -1,4 +1,4 @@
-s='abcd'
+s='abcdd'
 op=''
 prv = s[0]
 i=1

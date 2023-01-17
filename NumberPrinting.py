@@ -1,5 +1,5 @@
 #Get the number of '-' or '|' needed to print the Numbers
-string='1234123'
+string='123123'
 val={
     '1':2,
     '2':5,
