@@ -9,3 +9,17 @@ def bubble_sort(arr):
     return arr
 
 print(bubble_sort([23,45,12,1020,9]))
+
+####  Another Method #######
+
+
+# def sort (nums):
+#     for i in range (len (nums ) -1 ,0 ,-1):
+#         for j in range (i) :
+#             if nums [j] >nums[j + 1]:
+#                 nums[j],nums[j+1] = nums[j+1],nums[j]
+#
+#
+# nums = [5, 3, 8, 6, 7, 2]
+# sort(nums)
+# print(nums)
