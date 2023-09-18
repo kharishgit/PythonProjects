@@ -52,19 +52,71 @@
 #
 # print("Number of days until the due date:", number_of_days)
 
-target = 7
-lst = [2,3,1,2,4,3]
-print(len(lst))
-for i in range(0,len(lst)):
-    big = max(lst)
-    num = target-big
-    res=[]
-    # try:
-    #     r=lst.index(num)
-    # except:
-    #     pass
-    if big <= target:
-        res.append(big)
-        print(big)
-        # while big in lst:
-        #     lst.remove(big)
+# target = 7
+# lst = [2,3,1,2,4,3]
+# print(len(lst))
+# for i in range(0,len(lst)):
+#     big = max(lst)
+#     num = target-big
+#     res=[]
+#     # try:
+#     #     r=lst.index(num)
+#     # except:
+#     #     pass
+#     if big <= target:
+#         res.append(big)
+#         print(big)
+#         # while big in lst:
+#         #     lst.remove(big)
+
+
+
+# d={}
+# d['A']=100
+# d['B']=200
+# d['A']=300
+# d['B']=d.get('B',0)+1
+# for k,v in sorted(d.items()):
+#     print(k,v)
+
+# lst = [1,2,3,4,5]
+# lst2=[i*i for i in lst]
+# print(lst2)
+
+# mydict = dict(name="hai",age=50,address="kuttippuram")
+# print(''.join(map(str,list(mydict.values()))))
+
+
+# s="abcd"
+# print(s[::-1])
+# print(''.join(reversed(s)))
+#
+# op=''
+# l=len(s)-1
+# for i in range(l+1):
+#     op=op+s[l-i]
+# print(op)
+
+def my_dec(func):
+    def wrapper(*args,**kwargs):
+        print("before")
+        result =func(*args,**kwargs)
+        print("after")
+        return result
+    return wrapper
+
+@my_dec
+def hello(a,b):
+    return a+b
+print(hello(10,13))
+
+
+
+
+
+
+
+
+
+
+
