@@ -20,7 +20,7 @@ def roman_to_int(roman_numeral):
   for i in range(len(roman_numeral)):
     # Get the integer value of the current Roman numeral
     current_value = roman_to_int_dict[roman_numeral[i]]
-    print(roman_to_int_dict[roman_numeral[i]])
+    # print(roman_to_int_dict[roman_numeral[i]])
     # If the next Roman numeral has a greater integer value, subtract the
     # current value from the result. Otherwise, add the current value to
     # the result.
@@ -31,4 +31,4 @@ def roman_to_int(roman_numeral):
 
   return result
 
-print(roman_to_int("XIV"))
+print(roman_to_int("XL"))

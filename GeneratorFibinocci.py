@@ -8,6 +8,9 @@ print(next(x))
 print(next(x))
 print(next(x))
 print(next(x))
+print(next(x))
+print(next(x))
+
 
 # for i in fibinocci(50):
 #     print(i)
