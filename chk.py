@@ -214,15 +214,12 @@ import time
 #             return False
 
 
-ip=[1,7,2,15]
-target = 9
-for i in ip:
-    rem = target - i
-    ind1 = ip.index(rem)
-    if ind1:
-        print(ip.index(i),ind1)
-        break
 
+def min(lis):
+    return sorted(lis)[0]
+
+li = [4,5,6,8,1,2,3]
+print(min(li))
 
 
 
