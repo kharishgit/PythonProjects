@@ -215,11 +215,30 @@ import time
 
 
 
-def min(lis):
-    return sorted(lis)[0]
+# def min(lis):
+#     return sorted(lis)[0]
+#
+# li = [4,5,6,8,1,2,3]
+# print(min(li))
 
-li = [4,5,6,8,1,2,3]
-print(min(li))
+# from collections import Counter
+# a='aaasssdasrreweewhyeyeyuuuueyttytettharish'
+# values=Counter(a)
+# for k,v in values.items():
+#     print(f"key= {k} and value={v}")
+
+# s="hai how are yoiu"
+# t=list(s)
+# print(s.split('y'))
+
+# def disp(n):
+#     if n>0:
+#         disp(n-1)
+#     print(n)
+# disp(10)
+
+print("hiii")
+print(__name__)
 
 
 
