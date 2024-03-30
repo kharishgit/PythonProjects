@@ -5,15 +5,49 @@
 #     greet()
 # display(greet)
 
-s="Learning Python is very easy"
-# d = {}
-# for ch in s:
-#     d[ch] = d.get(ch,0)+1
-# for k,v in sorted(d.items()):
-#     print(f"{k} is occured {v} times")
-l= s.split()
-for i in range(len(l)):
-    if i%2==0:
-        print(l[i], end=" ")
+# def outer():
+#     print("Outer function")
+#     def inner():
+#         print("Inside inner")
+#     print("Returning ")
+#     return inner
+# f=outer()
+# f()
+
+# def generator(val):
+#     while val>0:
+#         yield val
+#         val= val-1
+# count = generator(10)
+# for i in count:
+#     print(i)
+
+# s = "durgasoft"
+# print(s[1::2])
+
+# s= "aaaabbbffz"
+# lst = list(s)
+# print(lst)
+# set1 = set(lst)
+# print(set1)
+# lst2=list(set1)
+# print(lst2)
+# for ch in sorted(lst2):
+#     print(ch+str(lst.count(ch)),end="")
+
+# def foo(a,b, *arg,**kwargs):
+#     print(a,b)
+#     for i in arg:
+#         print(i)
+#     for key in kwargs:
+#         print(key, kwargs[key])
+# foo(1,2,3,4,5,six=6,seven=7)
+
+
+def recfun(n):
+    if n < 1:
+        print("Num is < n")
     else:
-        print(l[i][::-1], end=" ")
+        recfun(n-1)
+        print(n)
+recfun(4)

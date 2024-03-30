@@ -237,19 +237,39 @@ import time
 #     print(n)
 # disp(10)
 
-print("hiii")
-print(__name__)
+# print("hiii")
+# print(__name__)
+#
+#
+#
+#
+#
+# def disp(n):
+#     if n>0:
+#         disp(n-1)
+#     print(n)
+#
+# disp(10)
 
 
+# def fib(limit):
+#     a,b =0,1
+#     while a<limit:
+#         yield a
+#         a,b = b,a+b
+# f=fib(10)
+# print(next(f))
+# print(next(f))
+# print(next(f))
+# print(next(f))
 
-
-
-
-
-
-
-
-
+def gen(limit):
+    while limit >= 0:
+        yield limit
+        limit-=1
+x=gen(10)
+for i in x:
+    print(i)
 
 
 

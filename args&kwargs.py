@@ -16,5 +16,5 @@ fun("hey",'man','How',123,'You')
 
 def funnier(**kvals):
     for karg in kvals:
-        print(karg)
+        print(karg,kvals[karg])
 funnier(First="1",sec='Two',Thrid='Three')

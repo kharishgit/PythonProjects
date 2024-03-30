@@ -24,5 +24,5 @@ def intToRom(num:int)->str:
             else:
                 break
     return "".join(op)
-res=intToRom(1051)
+res=intToRom(8)
 print(res)
