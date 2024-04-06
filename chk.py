@@ -263,13 +263,15 @@ import time
 # print(next(f))
 # print(next(f))
 
-def gen(limit):
-    while limit >= 0:
-        yield limit
-        limit-=1
-x=gen(10)
-for i in x:
-    print(i)
+# def gen(limit):
+#     while limit >= 0:
+#         yield limit
+#         limit-=1
+# x=gen(10)
+# for i in x:
+#     print(i)
+a="123456789"
+print(a[:4])
 
 
 
