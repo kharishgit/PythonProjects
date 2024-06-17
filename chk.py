@@ -270,9 +270,267 @@ import time
 # x=gen(10)
 # for i in x:
 #     print(i)
-a="123456789"
-print(a[:4])
+# a="123456789"
+# print(a[:4])
+# v1 = input("V1")
+# v2 = input("V2")
+# def compare(v1,v2):
+#     # print(v1,v2)
+#     ver1 = "".join(v1.split('.'))
+#     ver2 = "".join(v2.split('.'))
+#     version1 = "".join(ver1.split('0'))
+#     version2 = "".join(ver2.split('0'))
+#
+#     print(version1,version2)
+#
+#
+# compare(v1,v2)
+# try:
+#     x= int(input("Enter num"))
+#     y = int(input("Enter sec num"))
+#     print(x/y)
+# except Exception as e:
+#     print(e)
 
+# import math
+#
+# def is_prime(number):
+#     if number <= 1:
+#         return False
+#     if number <= 3:
+#         return True
+#     if number % 2 == 0 or number % 3 == 0:
+#         return False
+#     sqrt_num = int(math.sqrt(number))
+#     print(sqrt_num)
+#     for i in range(5, sqrt_num + 1, 6):
+#         print("I:",i)
+#         if number % i == 0 or number % (i + 2) == 0:
+#             return False
+#     return True
+#
+# # Test the function
+# number = 31  # Change this number to test different values
+# if is_prime(number):
+#     print(f"{number} is a prime number")
+# else:
+#     print(f"{number} is not a prime number")
 
+# def leap_year(year):
+#     if year%4==0:
+#         return True
+#     return False
+# def get_days(year,month):
+#     days_list=[31,28,31,30,31,30,31,31,30,31,30,31]
+#     if leap_year(year) and month==2:
+#         return 29
+#     else:
+#         return days_list[month-1]
+# print(get_days(2005,8))
+# def greet_loader(name):
+#     print(f"Hi {name.upper()}")
+# def greet_softer(name):
+#     print(f"Hi {name.lower()}")
+# def hello(other_fun,name):
+#     print("This is from hello")
+#     other_fun(name)
+# hello(greet_loader,"harish")
 
+# def hello(name):
+#     print("From hello")
+#     def greet():
+#         print("From Greet")
+#     def welcome():
+#         print("From Welcome")
+#     if name=="Harish":
+#         return greet
+#     return welcome
+# new_fun=hello("Harsh")
+# new_fun()
+# def add(x,y):
+#     print("from add")
+#     return x+y
+# def sub(x,y):
+#     return x-y
+# def calculate(other_fun,x,y):
+#     res=other_fun(x,y)
+#     return res
+#
+# result=calculate(add,3,4)
+# print(result)
+# s= "hello"
+# print(s.replace('l','L'))
+# print(s)
+# def deco(fun):
+#     def wrapper(c,d):
+#         print("start")
+#         result=fun(c,d)
+#         print("End")
+#         return result
+#     return wrapper
+#
+# @deco
+# def check(a,b):
+#     return a+b
+# print(check(3,4))
+# def fib(num):
+#     a,b=0,1
+#     while num > a:
+#         yield a
+#         a,b=b,a+b
+#
+# g=fib(20)
+# for i in g:
+#     print(i)
 
+# class Duck:
+#     def swim(self):
+#         print("I can Swim in water")
+#     def talk(self):
+#         print("Qack! I can")
+# class Dog:
+#     def swim(self):
+#         print("I can Swim in water with my legs")
+#     def talk(self):
+#         print("Bark! I can")
+#
+# def display(duck):
+#     duck.swim()
+#     duck.talk()
+#
+# d=Duck()
+# dog=Dog()
+# display(dog)
+# s="ABAABBCCGGJHGHJ"
+# d={}
+# for ch in s:
+#     d[ch]=d.get(ch,0)+1
+# for k,v in sorted(d.items()):
+#     print(f"{k} occurs {v} times")
+# s="AJISIIOEHNNCHEYTEU"
+# v=['a','e','i','o','u']
+# d={}
+# for ch in s.lower():
+#     if ch in v:
+#         d[ch]=d.get(ch,0)+1
+# print(d)
+# class Demo:
+#     def add(self,*args):
+#         res=0
+#         for i in args:
+#             res=res+i
+#         return res
+# d=Demo()
+# print(d.add(3,4,5))
+# print(d.add(30,23,9,4,5))
+
+# class Book:
+#     def __init__(self,pages):
+#         self.pages = pages
+#
+#     def __str__(self):
+#         return str(self.pages)
+#
+#     def __add__(self,other):
+#         total=self.pages+other.pages
+#         b=Book(total)
+#         return b
+#
+# b1=Book(100)
+# b2=Book(400)
+# b3=Book(300)
+# b4=Book(300)
+# print(b1+b2+b3+b4)
+
+# class Employee:
+#     def __init__(self,name,salary):
+#         self.name = name
+#         self.salary= salary
+#
+# class TimeSheet:
+#     def __init__(self,name,time):
+#         self.name = name
+#         self.time= time
+#
+#     def __mul__(self, other):
+#         return self.time * other.salary
+# e=Employee("Durga",500)
+# t= TimeSheet("Durga",30)
+# print(t*e)
+
+# class Test:
+#     def sum(self,*args):
+#         total =0
+#         for i in  args:
+#             total= total+i
+#         print(total)
+# t=Test()
+# t.sum(3,4,5)
+# t.sum(3,4,5,6,6,7,8)
+# from threading import *
+# class Mythread(Thread):
+#     def run(self):
+#         for i in range(10):
+#             print("child")
+# t=Mythread()
+# t.start()
+# for i in range(10):
+#     print("Main")
+
+# def sum(x,y):
+#     try:
+#         result = x/y
+#         return result
+#     except ZeroDivisionError:
+#         print("Y=0 is not allowed")
+#         return f"Y=0"
+# print(sum(4,0.1))
+#
+
+# from threading import *
+# import time
+# def display():
+#     for i in range(10):
+#         print("Child thread")
+# time.sleep(3)
+#
+# t=Thread(target=display)
+# t.start()
+# # t.join(3)
+# for i in range(10):
+#     print("Main")
+#     # time.sleep(.5)
+
+# class Car:
+#     def __init__(self,make,model,year):
+#         self._make = make
+#         self.__model = model
+#         self.__year=year
+#
+#     def set_make(self,make):
+#         self._make=make
+#     def get_model(self):
+#         return self.__model
+#     def set_year(self,year):
+#         self.__year =year
+#
+#     def display(self):
+#         return f"Model is {self.__model} Make is {self._make} year is {self.__year}"
+#
+# c=Car("Toyota","Altis",2000)
+# c.set_make("Maruthi")
+# print(c.display())
+# print(c.get_model())
+# c.set_year(2020)
+# print(c.display())
+
+# print("Hiii")
+# if __name__ == '__main__':
+#     print("This is only for chk")
+
+# def louder(name):
+#     print(f"hii {name.upper()}")
+# def display(other_fun,name):
+#     print("Hello")
+#     other_fun(name)
+# display(louder,"Jenny")

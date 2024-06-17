@@ -7,6 +7,6 @@
 # for i in range (n):
 #     print("* " * n )
 
-# n = int(input("Enter"))
-# for i in range(n):
-#     print("* "*(i+1))
+n = int(input("Enter"))
+for i in range(n):
+    print("* "*(i+1))

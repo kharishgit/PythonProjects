@@ -3,7 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="d3bb727b-a745-4213-b16e-7bee9be78dc9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/P1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/P1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/P10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/P10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/P2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/p11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/p11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/p12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/p12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/p13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/p13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/p14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/p14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/p15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/p15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/p16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/p16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/p18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/p18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chk.py" beforeDir="false" afterPath="$PROJECT_DIR$/chk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium1.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +59,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.chk">
+  <component name="RunManager" selected="Python.longestCommonPrefix">
+    <configuration name="5&amp;2 packets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5&amp;2 packets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fibinocci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LC2225Winners&amp;Loosers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibinocci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LC2225Winners&amp;Loosers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reccursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reccursion/fib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="longestCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/longestCommonPrefix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,34 +186,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tkinter1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chk" />
-        <item itemvalue="Python.tkinter1" />
+        <item itemvalue="Python.longestCommonPrefix" />
+        <item itemvalue="Python.LC2225Winners&amp;Loosers" />
+        <item itemvalue="Python.5&amp;2 packets" />
         <item itemvalue="Python.Ex" />
-        <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.Fibinocci" />
+        <item itemvalue="Python.fib" />
       </list>
     </recent_temporary>
   </component>
