@@ -6,4 +6,4 @@ def fib(n):
     hash[n]=fib(n-1) + fib(n-2)
     return hash[n]
 
-print(fib(5))
+print(fib(45))
