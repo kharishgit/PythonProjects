@@ -45,7 +45,7 @@ class LinkedList:
             nn.ref = n.ref
             n.ref = nn
 
-    def add_before(self,data,x):
+    def add_before(self, data, x):
         if self.head is None:
             print("Linked List is empty")
             return
@@ -53,7 +53,17 @@ class LinkedList:
             nn = Node(data)
             nn.ref = self.head
             self.head = nn
-
+        n = self.head
+        while n.ref is not None:
+            if n.ref.data == x:
+                break
+            n = n.ref
+        if n.ref is None:
+            print("Node not found")
+        else:
+            nn = Node(data)
+            nn.ref = n.ref
+            n.ref = nn
 
 LL1= LinkedList()
 LL1.add_begin(10)
@@ -63,6 +73,7 @@ LL1.add_end(5)
 LL1.add_end(3)
 LL1.add_end(1)
 LL1.add_after_node(120,10)
+LL1.add_before(555,5)
 LL1.printLL()
 
 
