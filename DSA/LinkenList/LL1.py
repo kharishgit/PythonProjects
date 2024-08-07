@@ -65,6 +65,12 @@ class LinkedList:
             nn.ref = n.ref
             n.ref = nn
 
+    def delete_begin(self):
+        if self.head is None:
+            print("Linked List is empty")
+        else:
+            self.head = self.head.ref
+
 LL1= LinkedList()
 LL1.add_begin(10)
 LL1.add_begin(20)
@@ -74,6 +80,7 @@ LL1.add_end(3)
 LL1.add_end(1)
 LL1.add_after_node(120,10)
 LL1.add_before(555,5)
+LL1.delete_begin()
 LL1.printLL()
 
 
