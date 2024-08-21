@@ -18,3 +18,18 @@ def calc(x,y):
 calc(12,13)
 
 
+
+
+
+# def decorate(func):
+#     def add(a,b):
+#         result = func(a+b)
+#         return result
+#     return add
+#
+#
+# @decorate
+# def double(x):
+#     return 2*x
+#
+# print(double(3,4))
