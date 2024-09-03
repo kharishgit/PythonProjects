@@ -2,93 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3bb727b-a745-4213-b16e-7bee9be78dc9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5&amp;2 packets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binarytodecimal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharCount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Createwordfromstring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/LinkenList/LL1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/LinkenList/LL1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecimaltoBinary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decorator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DeepCopyShallowCopy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DigitnStringSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactorialTrailingZeros.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fibinocci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GCD.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratorFibinocci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LC2225Winners&amp;Loosers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Latest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Latestcopy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetterCountDict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MissingNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberPrinting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMR2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMRCHK2405.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMRCHK2704.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OMRDetection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS CHK.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Paliandrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password Encryption.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primeno.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemoveDuplicates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reverse String.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S6a3b2c1Format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondWordReverse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SentenceReverse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StingReverseWhile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stringaaaabbbcczcount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordsInSentenceReverse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aabbbcFormat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/anagrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/args&amp;kwargs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubble_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countinstring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/duplicatesRemoval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heapSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integerToRoman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lettercount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listexmpl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/longestCommonPrefix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machineTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapfilterReduce.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/marked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maximumProduct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/old.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omr1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/omr_sheet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pickling&amp;Unpickling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickSort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reccurssion1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/regularExpression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverseList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/romanToInteger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selenium1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sequenceString.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringa4k3b2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumiOMR.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thresholdchk.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tkinter1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/totalmarkedbubble.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/turt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweetCount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/sumiOMR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Samples/Decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Samples/chk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/chk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,9 +49,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.chk">
-    <configuration name="5&amp;2 packets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mapfilterReduce">
+    <configuration name="DecimaltoBinary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -145,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/5&amp;2 packets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/DecimaltoBinary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,8 +72,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GeneratorFibinocci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -166,28 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/bubble_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chk (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/chk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/GeneratorFibinocci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,6 +96,7 @@
     </configuration>
     <configuration name="chk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -217,19 +116,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decimalToBinary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="integerToRoman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Reccursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Samples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reccursion/decimalToBinary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/integerToRoman.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,6 +140,7 @@
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -259,13 +160,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mapfilterReduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Samples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/mapfilterReduce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mapfilterReduce" />
+        <item itemvalue="Python.integerToRoman" />
+        <item itemvalue="Python.GeneratorFibinocci" />
         <item itemvalue="Python.chk" />
-        <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.5&amp;2 packets" />
-        <item itemvalue="Python.chk (1)" />
-        <item itemvalue="Python.decimalToBinary" />
+        <item itemvalue="Python.DecimaltoBinary" />
       </list>
     </recent_temporary>
   </component>
