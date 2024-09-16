@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3bb727b-a745-4213-b16e-7bee9be78dc9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Samples/chk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/chk.py" afterDir="false" />
     </list>
@@ -63,12 +62,13 @@
     "Python.CharCount.executor": "Run",
     "Python.GradientDescent.executor": "Run",
     "Python.chk.executor": "Run",
+    "Python.hashmap.executor": "Run",
     "Python.integerToRoman.executor": "Run",
     "Python.mapfilterReduce.executor": "Run",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.GradientDescent">
+  <component name="RunManager" selected="Python.chk">
     <configuration name="CharCount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -135,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="integerToRoman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hashmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Samples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA/HashMap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/integerToRoman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/HashMap/hashmap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GradientDescent" />
         <item itemvalue="Python.chk" />
+        <item itemvalue="Python.hashmap" />
+        <item itemvalue="Python.GradientDescent" />
         <item itemvalue="Python.CharCount" />
         <item itemvalue="Python.mapfilterReduce" />
-        <item itemvalue="Python.integerToRoman" />
       </list>
     </recent_temporary>
   </component>
