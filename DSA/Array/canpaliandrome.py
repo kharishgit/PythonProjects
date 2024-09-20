@@ -14,4 +14,4 @@ def can_paliandrome(str):
     else:
         return False
 
-print(can_paliandrome('alabbb'))
+print(can_paliandrome('alabblc'))
