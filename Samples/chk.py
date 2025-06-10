@@ -1,3 +1,2 @@
-text = "banana"
-print(text.find("nana"))     # 2 (first match)
-# print(text.replace("na", "**"))
+for i in range(5,10):
+    print(i)
