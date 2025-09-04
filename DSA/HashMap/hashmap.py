@@ -12,6 +12,7 @@
 #     if i[0] == 'Mar-06':
 #         print([i[1]])
 
+
 # While using the dictionary the complexity can be reduced to 0(1)
 stock_prices = {}
 with open('Book1.csv','r') as stock:

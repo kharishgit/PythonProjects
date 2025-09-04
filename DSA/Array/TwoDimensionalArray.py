@@ -15,7 +15,7 @@ def getElements(array,rowindex,colindex):
     if rowindex >=  len(array) and colindex>= len(array[0]):
         print("Incorrect Values")
     else:
-        print(array[rowindex,colindex])
+        print("Array:",array[rowindex,colindex])
 getElements(newArray,2,4)
 
 # Traversing through 2D array

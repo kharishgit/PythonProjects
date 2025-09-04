@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3bb727b-a745-4213-b16e-7bee9be78dc9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/Array/canpaliandrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Array/canpaliandrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/Array/TwoDimensionalArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Array/TwoDimensionalArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/HashMap/Twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/HashMap/Twosum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/HashMap/hashmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/HashMap/hashmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reccursion/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reccursion/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reccursion/sumofdigits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reccursion/sumofdigits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Samples/chk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/chk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +30,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kharishgit"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kharishgit&quot;
   }
-}]]></component>
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -38,18 +44,18 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kharishgit/PythonProjects.git",
-    "accountId": "185101db-8ba8-44fb-b283-1a5461873160"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kharishgit/PythonProjects.git&quot;,
+    &quot;accountId&quot;: &quot;185101db-8ba8-44fb-b283-1a5461873160&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="25sUI4MRYtJRzT8HQmnuX0BGwfP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -60,19 +66,98 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10_sumof_products.executor": "Run",
+    "Python.11_number_pattern.executor": "Run",
+    "Python.12_overlap_count.executor": "Run",
+    "Python.2_stars.executor": "Run",
+    "Python.5_multiplication_table.executor": "Run",
+    "Python.6_find_duplicates.executor": "Run",
+    "Python.7_hollowsquarestars.executor": "Run",
+    "Python.8_common_number_count.executor": "Run",
+    "Python.9_pyramid_patterns.executor": "Run",
+    "Python.ArrayIntesection.executor": "Run",
+    "Python.Calculate_Average.executor": "Run",
     "Python.CharCount.executor": "Run",
+    "Python.Container_with_most_water.executor": "Run",
+    "Python.Ex.executor": "Run",
     "Python.GradientDescent.executor": "Run",
+    "Python.IsPrime.executor": "Run",
+    "Python.LenghtofLongestSubstring.executor": "Run",
+    "Python.LongestConsicutive.executor": "Run",
+    "Python.LongestRepeatingCharacterReplacement.executor": "Run",
+    "Python.MaxAverage.executor": "Run",
+    "Python.SlidingWindowMaximum.executor": "Run",
+    "Python.SubArraySums.executor": "Run",
+    "Python.TwoDimensionalArray.executor": "Run",
+    "Python.Twosum.executor": "Run",
+    "Python.ValidPaliandrome.executor": "Run",
+    "Python.action_count.executor": "Run",
+    "Python.add_elements_at_begning.executor": "Run",
+    "Python.binarySearch.executor": "Run",
     "Python.canpaliandrome.executor": "Run",
     "Python.chk.executor": "Run",
+    "Python.dailytemperatures.executor": "Run",
+    "Python.datacsv.executor": "Run",
+    "Python.encodeDecode.executor": "Run",
+    "Python.extract_email.executor": "Run",
+    "Python.extractjson.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fib.executor": "Run",
+    "Python.fibinocci.executor": "Run",
+    "Python.findMid.executor": "Run",
+    "Python.find_anagram.executor": "Run",
+    "Python.find_duplicates.executor": "Run",
+    "Python.find_substring.executor": "Run",
+    "Python.gcd.executor": "Run",
+    "Python.groupAnagrams.executor": "Run",
     "Python.hashmap.executor": "Run",
     "Python.integerToRoman.executor": "Run",
+    "Python.lengthoflongestsubstring.executor": "Run",
     "Python.mapfilterReduce.executor": "Run",
+    "Python.merge_sorted_list.executor": "Run",
+    "Python.minStack.executor": "Run",
+    "Python.moveZeros.executor": "Run",
+    "Python.multiplication_table.executor": "Run",
+    "Python.nearestSmallelement.executor": "Run",
+    "Python.number_grid.executor": "Run",
+    "Python.paliandrome_check.executor": "Run",
+    "Python.productExceptSelf.executor": "Run",
     "Python.quickSort.executor": "Run",
-    "git-widget-placeholder": "main"
+    "Python.regularExpression.executor": "Run",
+    "Python.removeDuplicates.executor": "Run",
+    "Python.removeItemtwopointer.executor": "Run",
+    "Python.remove_duplicates.executor": "Run",
+    "Python.reversewords.executor": "Run",
+    "Python.rightanglestars.executor": "Run",
+    "Python.rotate_lists.executor": "Run",
+    "Python.searchInsert.executor": "Run",
+    "Python.simpleCaluclator.executor": "Run",
+    "Python.simplifyPath.executor": "Run",
+    "Python.sortedList.executor": "Run",
+    "Python.stars.executor": "Run",
+    "Python.sumofdigits.executor": "Run",
+    "Python.target_pair.executor": "Run",
+    "Python.targetvalues.executor": "Run",
+    "Python.topKfrequentElements.executor": "Run",
+    "Python.validate_dates.executor": "Run",
+    "Python.while_loop.executor": "Run",
+    "Python.word_frequency.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/harishk/PycharmProjects/pythonProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.canpaliandrome">
-    <configuration name="GradientDescent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Interview Prep/Day5" />
+      <recent name="$PROJECT_DIR$/Interview Prep/Day4" />
+      <recent name="$PROJECT_DIR$/Interview Prep/Day3" />
+      <recent name="$PROJECT_DIR$/Interview Prep/Day2" />
+      <recent name="$PROJECT_DIR$/Interview Prep/Day1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.12_overlap_count">
+    <configuration name="10_sumof_products" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DL" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LOOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DL/GradientDescent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LOOPS/10_sumof_products.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="canpaliandrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11_number_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +188,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA/Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LOOPS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/Array/canpaliandrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LOOPS/11_number_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_overlap_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LOOPS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LOOPS/12_overlap_count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_pyramid_patterns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LOOPS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LOOPS/9_pyramid_patterns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,28 +267,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hashmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA/HashMap" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/HashMap/hashmap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -182,35 +289,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quickSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Samples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Samples/quickSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.canpaliandrome" />
-        <item itemvalue="Python.quickSort" />
+        <item itemvalue="Python.12_overlap_count" />
         <item itemvalue="Python.chk" />
-        <item itemvalue="Python.hashmap" />
-        <item itemvalue="Python.GradientDescent" />
+        <item itemvalue="Python.11_number_pattern" />
+        <item itemvalue="Python.10_sumof_products" />
+        <item itemvalue="Python.9_pyramid_patterns" />
       </list>
     </recent_temporary>
   </component>
